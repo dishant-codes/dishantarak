@@ -1,6 +1,6 @@
 import "./style.css";
 
-import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.min.js";
+import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js";
 // import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
 const scene = new THREE.Scene();
