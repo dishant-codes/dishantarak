@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dishantarak/static/css/main.ff36f4d0.chunk.css",
+    "main.js": "/dishantarak/static/js/main.009351f1.chunk.js",
+    "main.js.map": "/dishantarak/static/js/main.009351f1.chunk.js.map",
+    "runtime-main.js": "/dishantarak/static/js/runtime-main.dad54c45.js",
+    "runtime-main.js.map": "/dishantarak/static/js/runtime-main.dad54c45.js.map",
+    "static/js/2.84b28751.chunk.js": "/dishantarak/static/js/2.84b28751.chunk.js",
+    "static/js/2.84b28751.chunk.js.map": "/dishantarak/static/js/2.84b28751.chunk.js.map",
+    "index.html": "/dishantarak/index.html",
+    "static/css/main.ff36f4d0.chunk.css.map": "/dishantarak/static/css/main.ff36f4d0.chunk.css.map",
+    "static/js/2.84b28751.chunk.js.LICENSE.txt": "/dishantarak/static/js/2.84b28751.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad54c45.js",
+    "static/js/2.84b28751.chunk.js",
+    "static/css/main.ff36f4d0.chunk.css",
+    "static/js/main.009351f1.chunk.js"
+  ]
+}
