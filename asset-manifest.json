@@ -1,20 +1,36 @@
 {
   "files": {
-    "main.css": "/dishantarak/static/css/main.7d50a112.chunk.css",
-    "main.js": "/dishantarak/static/js/main.009351f1.chunk.js",
-    "main.js.map": "/dishantarak/static/js/main.009351f1.chunk.js.map",
-    "runtime-main.js": "/dishantarak/static/js/runtime-main.dad54c45.js",
-    "runtime-main.js.map": "/dishantarak/static/js/runtime-main.dad54c45.js.map",
-    "static/js/2.84b28751.chunk.js": "/dishantarak/static/js/2.84b28751.chunk.js",
-    "static/js/2.84b28751.chunk.js.map": "/dishantarak/static/js/2.84b28751.chunk.js.map",
+    "main.css": "/dishantarak/static/css/main.670d7399.chunk.css",
+    "main.js": "/dishantarak/static/js/main.82c76fa3.chunk.js",
+    "main.js.map": "/dishantarak/static/js/main.82c76fa3.chunk.js.map",
+    "runtime-main.js": "/dishantarak/static/js/runtime-main.66f463e5.js",
+    "runtime-main.js.map": "/dishantarak/static/js/runtime-main.66f463e5.js.map",
+    "static/css/2.229ed62f.chunk.css": "/dishantarak/static/css/2.229ed62f.chunk.css",
+    "static/js/2.59efd477.chunk.js": "/dishantarak/static/js/2.59efd477.chunk.js",
+    "static/js/2.59efd477.chunk.js.map": "/dishantarak/static/js/2.59efd477.chunk.js.map",
+    "static/js/3.b1f4a18c.chunk.js": "/dishantarak/static/js/3.b1f4a18c.chunk.js",
+    "static/js/3.b1f4a18c.chunk.js.map": "/dishantarak/static/js/3.b1f4a18c.chunk.js.map",
+    "static/css/4.f9e8792f.chunk.css": "/dishantarak/static/css/4.f9e8792f.chunk.css",
+    "static/js/4.138639d4.chunk.js": "/dishantarak/static/js/4.138639d4.chunk.js",
+    "static/js/4.138639d4.chunk.js.map": "/dishantarak/static/js/4.138639d4.chunk.js.map",
+    "static/js/5.98d6b688.chunk.js": "/dishantarak/static/js/5.98d6b688.chunk.js",
+    "static/js/5.98d6b688.chunk.js.map": "/dishantarak/static/js/5.98d6b688.chunk.js.map",
     "index.html": "/dishantarak/index.html",
-    "static/css/main.7d50a112.chunk.css.map": "/dishantarak/static/css/main.7d50a112.chunk.css.map",
-    "static/js/2.84b28751.chunk.js.LICENSE.txt": "/dishantarak/static/js/2.84b28751.chunk.js.LICENSE.txt"
+    "static/css/2.229ed62f.chunk.css.map": "/dishantarak/static/css/2.229ed62f.chunk.css.map",
+    "static/css/4.f9e8792f.chunk.css.map": "/dishantarak/static/css/4.f9e8792f.chunk.css.map",
+    "static/css/main.670d7399.chunk.css.map": "/dishantarak/static/css/main.670d7399.chunk.css.map",
+    "static/js/2.59efd477.chunk.js.LICENSE.txt": "/dishantarak/static/js/2.59efd477.chunk.js.LICENSE.txt",
+    "static/js/3.b1f4a18c.chunk.js.LICENSE.txt": "/dishantarak/static/js/3.b1f4a18c.chunk.js.LICENSE.txt",
+    "static/media/desktop(p1).c9e9b4f2.jpg": "/dishantarak/static/media/desktop(p1).c9e9b4f2.jpg",
+    "static/media/desktop(p2).276193f8.jpg": "/dishantarak/static/media/desktop(p2).276193f8.jpg",
+    "static/media/desktop(p3).b39fa932.jpg": "/dishantarak/static/media/desktop(p3).b39fa932.jpg",
+    "static/media/dishant.90a83c42.jpg": "/dishantarak/static/media/dishant.90a83c42.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dad54c45.js",
-    "static/js/2.84b28751.chunk.js",
-    "static/css/main.7d50a112.chunk.css",
-    "static/js/main.009351f1.chunk.js"
+    "static/js/runtime-main.66f463e5.js",
+    "static/css/2.229ed62f.chunk.css",
+    "static/js/2.59efd477.chunk.js",
+    "static/css/main.670d7399.chunk.css",
+    "static/js/main.82c76fa3.chunk.js"
   ]
 }
