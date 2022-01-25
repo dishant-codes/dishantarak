@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/dishantarak/static/css/main.80ce0c40.css",
-    "main.js": "/dishantarak/static/js/main.40846cc3.js",
+    "main.css": "/dishantarak/static/css/main.c0dd2d94.css",
+    "main.js": "/dishantarak/static/js/main.0fec44d3.js",
     "static/js/787.3ee23931.chunk.js": "/dishantarak/static/js/787.3ee23931.chunk.js",
-    "static/media/dishant1.png": "/dishantarak/static/media/dishant1.eb3ce8836266afc9b70f.png",
     "static/media/project-demo.jpg": "/dishantarak/static/media/project-demo.0adc128245137e81da15.jpg",
     "index.html": "/dishantarak/index.html",
-    "main.80ce0c40.css.map": "/dishantarak/static/css/main.80ce0c40.css.map",
-    "main.40846cc3.js.map": "/dishantarak/static/js/main.40846cc3.js.map",
+    "main.c0dd2d94.css.map": "/dishantarak/static/css/main.c0dd2d94.css.map",
+    "main.0fec44d3.js.map": "/dishantarak/static/js/main.0fec44d3.js.map",
     "787.3ee23931.chunk.js.map": "/dishantarak/static/js/787.3ee23931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80ce0c40.css",
-    "static/js/main.40846cc3.js"
+    "static/css/main.c0dd2d94.css",
+    "static/js/main.0fec44d3.js"
   ]
 }
